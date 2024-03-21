@@ -3,7 +3,7 @@
 
 int main() {
     int n = 0, mod, flag;
-    printf("n degerini giriniz: ");
+    printf("enter the value of n: ");
     scanf("%d",&n);
     
     for (int i = 2; i < n; i++)
